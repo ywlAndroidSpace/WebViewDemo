@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="myapp_ling"><a href="vsearchentity://entityID:0215545456">启动应用程序</a></string>
+    <string name="service_url">https://mobileappsuat.pwchk.com/PwCShare/Home/?appcode=vSearch&#038;parameter=aid/openwith?data=06061741</string>
+
+</resources>
